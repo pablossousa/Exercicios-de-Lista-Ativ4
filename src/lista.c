@@ -43,7 +43,7 @@ void Verifica(Lista *l) {
         }
     }
 
-    printf("\nA soma é %d\n", maxSum);
+    printf("\nA máxima soma é %d\n", maxSum);
 
 
 }
