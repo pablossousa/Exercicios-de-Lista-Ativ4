@@ -2,7 +2,7 @@
 
 <h2>Problema</h2>
 
-Em uma lista A temos um conjunto de elementos inteiros positivos ou não (A1, A2, . . . , An). Elabore uma função que consiga encontrar neste conjunto a máxima soma.
+Em uma lista A temos um conjunto de elementos inteiros positivos ou não (a<sub>1</sub>, a<sub>2</sub>, . . . , a<sub>n</sub>). Elabore uma função que consiga encontrar neste conjunto a máxima soma.
 
 <h2>Resolução</h2>
 
