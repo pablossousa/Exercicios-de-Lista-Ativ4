@@ -8,8 +8,8 @@ Em uma lista A temos um conjunto de elementos inteiros positivos ou não (a<sub>
 
 A resolução deste problema consiste em:
 <li>Ler um número X de números do usuário (foram usados 5 números no programa, mas a quantidade pode ser editada em "lista.h" substituindo "MAXTAM" pelo número desejado);</li>
-<img src="Screenshot_1.png">
 <li>O programa mostra a lista digitada e em seguida chama um método chamado "Verifica" para descobrir qual sequência gera a máxima soma;</li>
+<img src="Screenshot_1.png">
 <li>O método "Verifica" consiste em dois "for" para verificar qual a sequência gera a maior soma. Detalhe importante para a variável chamada "maxSum", onde recebe um valor mínimo para um "int", para que qualquer número seja maior que ele. Caso digite um número menor, consistirá em um número menor que o tipo "int" suporta;</li>
 <li>A saída do programa retorna a soma máxima que uma sequência digitada pode gerar.</li>
 <img src="Screenshot_2.png">
